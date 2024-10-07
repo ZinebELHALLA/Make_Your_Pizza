@@ -1,4 +1,4 @@
-package com.example.pizzapp;
+package com.example.makeyourpizza;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,9 +10,11 @@ import android.widget.ListView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
 
-import com.example.pizzapp.adapter.PizzaAdapter;
-import com.example.pizzapp.beans.PizzaBeans;
-import com.example.pizzapp.services.PizzaService;
+import com.example.makeyourpizza.adapter.PizzaAdapter;
+import com.example.makeyourpizza.beans.PizzaBeans;
+import com.example.makeyourpizza.services.PizzaService;
+
+
 
 import java.util.List;
 

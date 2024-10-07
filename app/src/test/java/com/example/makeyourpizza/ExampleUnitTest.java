@@ -1,4 +1,4 @@
-package com.example.pizzapp;
+package com.example.makeyourpizza;
 
 import org.junit.Test;
 

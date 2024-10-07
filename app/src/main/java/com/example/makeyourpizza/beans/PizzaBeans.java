@@ -1,4 +1,4 @@
-package com.example.pizzapp.beans;
+package com.example.makeyourpizza.beans;
 
 // La classe
 public class PizzaBeans {

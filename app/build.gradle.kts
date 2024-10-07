@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pizzapp"
+    namespace = "com.example.makeyourpizza"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.pizzapp"
+        applicationId = "com.example.makeyourpizza"
         minSdk = 21
         targetSdk = 34
         versionCode = 1

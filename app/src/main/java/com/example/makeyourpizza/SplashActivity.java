@@ -1,4 +1,4 @@
-package com.example.pizzapp;
+package com.example.makeyourpizza;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +9,7 @@ import android.widget.ProgressBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.bumptech.glide.Glide;  // Import Glide
+import com.example.makeyourpizza.R;
 
 public class SplashActivity extends AppCompatActivity {
 

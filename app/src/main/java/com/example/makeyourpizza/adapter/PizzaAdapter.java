@@ -1,4 +1,4 @@
-package com.example.pizzapp.adapter;
+package com.example.makeyourpizza.adapter;
 
 import android.app.Activity;
 import android.content.Context;
@@ -9,11 +9,10 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.pizzapp.R;
-import com.example.pizzapp.beans.PizzaBeans;
+import com.example.makeyourpizza.R;
+import com.example.makeyourpizza.beans.PizzaBeans;
 
 import java.util.List;
-import java.util.Objects;
 
 public class PizzaAdapter extends BaseAdapter {
     private List<PizzaBeans> pizzas;

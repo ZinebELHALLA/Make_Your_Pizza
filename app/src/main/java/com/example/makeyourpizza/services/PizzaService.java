@@ -1,7 +1,7 @@
-package com.example.pizzapp.services;
+package com.example.makeyourpizza.services;
 
-import com.example.pizzapp.beans.PizzaBeans;
-import com.example.pizzapp.dao.PizzaDAO;
+import com.example.makeyourpizza.beans.PizzaBeans;
+import com.example.makeyourpizza.dao.PizzaDAO;
 
 import java.util.ArrayList;
 import java.util.List;

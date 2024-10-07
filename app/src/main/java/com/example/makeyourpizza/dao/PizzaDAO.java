@@ -1,4 +1,4 @@
-package com.example.pizzapp.dao;
+package com.example.makeyourpizza.dao;
 import java.util.List;
 
 public interface PizzaDAO<T> {
